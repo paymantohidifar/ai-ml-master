@@ -6,4 +6,4 @@
 	url = git@github.com:paymantohidifar/ml-specialization-coursera.git
 [submodule "ml-with-pytorch-and-scikit-learn-book"]
 	path = ml-with-pytorch-and-scikit-learn-book
-	url = git@github.com:paymantohidifar/ai-ml-master.git
+	url = git@github.com:paymantohidifar/ml-with-pytorch-and-scikit-learn-book.git
