@@ -7,3 +7,6 @@
 [submodule "ml-with-pytorch-and-scikit-learn-book"]
 	path = ml-with-pytorch-and-scikit-learn-book
 	url = git@github.com:paymantohidifar/ml-with-pytorch-and-scikit-learn-book.git
+[submodule "build-a-llm-from-scratch-book"]
+	path = build-a-llm-from-scratch-book
+	url = git@github.com:paymantohidifar/build-a-llm-from-scratch-book.git
