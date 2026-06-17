@@ -10,3 +10,6 @@
 [submodule "build-a-llm-from-scratch-book"]
 	path = build-a-llm-from-scratch-book
 	url = git@github.com:paymantohidifar/build-a-llm-from-scratch-book.git
+[submodule "jax-ai-stack"]
+	path = jax-ai-stack
+	url = git@github.com:paymantohidifar/jax-ai-stack.git
