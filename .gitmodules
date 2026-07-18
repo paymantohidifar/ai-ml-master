@@ -16,3 +16,6 @@
 [submodule "claude-code-ragchatbot"]
 	path = claude-code-ragchatbot
 	url = https://github.com/paymantohidifar/claude-code-ragchatbot.git
+[submodule "gpt2-classifier"]
+	path = gpt2-classifier
+	url = https://github.com/paymantohidifar/gpt2-text-classifier-from-scratch.git
