@@ -1,22 +1,33 @@
-## lecture materials
-machine-learning/ml-specialization-coursera/course-1/materials/
-machine-learning/ml-specialization-coursera/course-2/materials/
-machine-learning/ml-specialization-coursera/course-3/materials/
-machine-learning/deep-learning-specialization-coursera/course-1/materials/
-machine-learning/deep-learning-specialization-coursera/course-2/materials/
-machine-learning/deep-learning-specialization-coursera/course-3/materials/
-machine-learning/deep-learning-specialization-coursera/course-4/materials/
-machine-learning/deep-learning-specialization-coursera/course-5/materials/
-bp-interm-ds-bootcamp/
-practical-deep-learning-for-coders-book/
-
-## certificates
-certificate/
-
-## Jupyter temporary files
+# Python/Jupyter
 .ipynb_checkpoints/
 .virtual_documents/
 .idea/
 
-## VS Code saved files
+## VSCode
 *.code-workspace
+
+# Unpublished Projects 
+bp-interm-ds-bootcamp/
+practical-deep-learning-for-coders-book/
+understanding-deep-learning-prince-book/
+mathematics-for-ml-specialization-coursera/
+ai-agents/
+data-science/
+deep-learning-best-practices-biogen-2025/
+deep-learning-goodfellow-bengio-courville/
+designing-ML-systems-book/
+sc-claude-code-files/
+
+# Published Project materials
+ml-specialization-coursera/**/materials/
+deep-learning-specialization-coursera/**/materials/
+
+# Certificates
+**/certificate/
+
+# Misc
+ISLP_website.pdf
+
+
+
+
