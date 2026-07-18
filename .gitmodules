@@ -13,3 +13,6 @@
 [submodule "jax-ai-stack"]
 	path = jax-ai-stack
 	url = git@github.com:paymantohidifar/jax-ai-stack.git
+[submodule "claude-code-ragchatbot"]
+	path = claude-code-ragchatbot
+	url = https://github.com/paymantohidifar/claude-code-ragchatbot.git
