@@ -1,6 +1,6 @@
 # AI/ML & Data Science (Master Workspace)
 
-Welcome to my central AI and Data Science workspace. This parent repository serves as a unified, organized entry point for my collection of study notes, machine learning specializations, framework exploration stacks, and from-scratch neural network implementations.
+Welcome to my central AI and Data Science workspace. This parent repository serves as a unified, organized entry point for my collection of study notes, machine learning specializations, framework exploration stacks, and from-scratch LLM and neural network implementations and production-grade applications/tools.
 
 Each component is decoupled and integrated cleanly as a **Git Submodule** to maintain strict architectural isolation, dependency tracking, and independent history logs.
 
