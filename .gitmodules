@@ -19,3 +19,6 @@
 [submodule "gpt2-classifier"]
 	path = gpt2-classifier
 	url = https://github.com/paymantohidifar/gpt2-text-classifier-from-scratch.git
+[submodule "biocanvas"]
+	path = biocanvas
+	url = https://github.com/paymantohidifar/BioCanvas.git
