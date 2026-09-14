@@ -19,3 +19,6 @@
 [submodule "gpt2-classifier"]
 	path = gpt2-classifier
 	url = git@github.com:paymantohidifar/gpt2-text-classifier-from-scratch.git
+[submodule "small-ml-projects"]
+	path = small-ml-projects
+	url = git@github.com:paymantohidifar/small-ml-projects.git
