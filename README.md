@@ -17,6 +17,9 @@ The submodules contained in this repository are categorized below:
 * **[Build an LLM from Scratch: Personal Study Notes & Reference](https://github.com/paymantohidifar/build-a-llm-from-scratch-book.git)**
 *A centralized hub for my personal study notes, comprehensive architecture breakdowns, and implementations derived from Sebastian Raschka's book, Build a Large Language Model (from scratch).*
 
+* **[Short Machine/Deep Learning Projects](https://github.com/paymantohidifar/small-ml-projects.git)**
+*A centralized hub for some of my Ml/DL projects.*
+
 * **[Machine Learning with PyTorch and Scikit-Learn: Personal Study Notes & Reference](https://github.com/paymantohidifar/ml-with-pytorch-and-scikit-learn-book.git)**
 *A centralized hub for my personal study notes, comprehensive architecture breakdowns, and implementations derived from Sebastian Raschka's book, Machine Learning with PyTorch and Scikit-Learn.*
 
