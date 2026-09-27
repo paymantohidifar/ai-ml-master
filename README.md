@@ -28,6 +28,3 @@ The submodules contained in this repository are categorized below:
 
 * **[Machine Learning Specialization (Coursera): Personal Study Notes & Reference](https://github.com/paymantohidifar/ml-specialization-coursera.git)**
 *My personal study notes for "Machine Learning Specialization" series by Andrew Ng offered by Coursera.*
-
-* **[Claude Code RAG Chatbot](https://github.com/paymantohidifar/claude-code-ragchatbot.git)**
-*A course material forked from DeepLearning.AI to practice agentic coding with Claude Code.*
