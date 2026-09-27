@@ -22,3 +22,6 @@
 [submodule "small-ml-projects"]
 	path = small-ml-projects
 	url = git@github.com:paymantohidifar/small-ml-projects.git
+[submodule "llm-first-principles"]
+	path = llm-first-principles
+	url = git@github.com:paymantohidifar/llm-first-principles.git
